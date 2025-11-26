@@ -9,8 +9,8 @@ I'm Nduka, a FullStack Software Engineer based in Nigeria who's passionate about
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ndukaofoegbu.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ndukaofoegbu.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://ndukaofoegbu.xyz#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://ndukaofoegbu.xyz#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/devchidy#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/ddevchidys#gh-dark-mode-only)
@@ -39,10 +39,10 @@ I'm Nduka, a FullStack Software Engineer based in Nigeria who's passionate about
 
 
 
-[website]: https://ndukaofoegbu.com
+[website]: https://ndukaofoegbu.xyz
 [twitter]: https://twitter.com/devchidy
 [instagram]: https://instagram.com/devchidy
-<!--[linkedin]: https://www.linkedin.com/in/david-codes-b4ab85223/-->
+
 
 <!--
 **Oluwachidy/Oluwachidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
