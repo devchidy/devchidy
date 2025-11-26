@@ -13,11 +13,11 @@ I'm Nduka, a FullStack Software Engineer based in Nigeria who's passionate about
 [![website](./img/globe-dark.svg)](https://ndukaofoegbu.xyz#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/devchidy#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ddevchidys#gh-dark-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/devchidys#gh-dark-mode-only)
 &nbsp;&nbsp;
-<!--[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/david-oladele-b4ab85223/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/david-oladele-b4ab85223/#gh-dark-mode-only)
-&nbsp;&nbsp;-->
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nduka-ofoegbu/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nduka-ofoegbu/#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/devchidy#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/devchidy#gh-dark-mode-only)
 
