@@ -5,7 +5,7 @@ I'm Nduka Ofoegbu - aka [devchidy] 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/devchidy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdevchidy&screen_name=devchidy)
 
 
-I'm Nduka, a FullStack Software Engineer based in Nigeria who's passionate about using technology to create positive change in the world. With every project I undertake, I strive to empower others and build innovative solutions that make a real difference. Let's code for a brighter tomorrow! 🌞💻🌍
+I'm Nduka, a Software Engineer  who's passionate about using technology to create positive change in the world. With every project I undertake, I strive to empower others and build innovative solutions that make a real difference. Let's code for a brighter tomorrow! 🌞💻🌍
 
 ### Connect with me:
 
